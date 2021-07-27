@@ -3,15 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arafbusy&label=Profile%20views&color=red&style=flat" alt="arafbusy" /> </p>
 
-- 🔭 I’m currently working on Web & Game Development
+- 🔭 I’m currently working on **Web & Game Development**
 - 📫 Business : **arafbusy@hotmail.com**
 
 <h3 align="left">How to contact with me?</h3>
 <p align="left">
-<a href="https://twitter.com/arafbusy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arafbusy" height="30" width="40" /></a>
-<a href="https://instagram.com/arafbusy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arafbusy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/araf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="araf" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/zx5HR42KYv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/zx5HR42KYv" height="30" width="40" /></a>
+<a href="https://twitter.com/arafbusy" target="blank" style='margin-right: 16px'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arafbusy" height="30" width="40" /></a>
+<a href="https://instagram.com/arafbusy" target="blank" style='margin-right: 16px'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arafbusy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/araf" target="blank" style='margin-right: 16px'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="araf" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/zx5HR42KYv" target="blank" style='margin-right: 16px'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/zx5HR42KYv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
