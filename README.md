@@ -44,7 +44,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
     <a href="https://www.image-line.com" target="_blank">
-        <img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" alt="flstudio" width="40" height="40"/>
+        <img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" alt="flstudio" width="40"/>
     </a>
 </p>
 
