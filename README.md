@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arafbusy&label=Profile%20views&color=red&style=flat" alt="arafbusy" /> </p>
 
-<p align="left"> <a href="https://instagram.com/arafbusy" target="blank"><img src="https://img.shields.io/twitter/follow/arafbusy?logo=twitter&style=for-the-badge" alt="arafbusy" /></a> </p>
-
 - 📫 Business : **arafbusy@hotmail.com**
 
 <h3 align="left">How to contact with me?</h3>
