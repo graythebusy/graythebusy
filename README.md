@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Araf</h1>
 <h3 align="center">Front-End Web Developer & Basic Game Developer & Self-Designer & Musician</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafbusy&label=Profile%20views&color=0e75b6&style=flat" alt="arafbusy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/arafbusy" target="blank"><img src="https://img.shields.io/twitter/follow/arafbusy?logo=twitter&style=for-the-badge" alt="arafbusy" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafbusy&label=Profile%20views&color=red&style=flat" alt="arafbusy" /> </p>
 
 - 📫 Business : **arafbusy@hotmail.com**
 
