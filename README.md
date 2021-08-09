@@ -3,14 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arafbusy&label=Profile%20views&color=red&style=flat" alt="arafbusy" /> </p>
 
-- Front-End Web Developer
-- Basic Game Developer
-- Self Designer
-- Music Producer
+#- Front-End Web Developer
+#- Basic Game Developer
+#- Self Designer
+#- Music Producer
 
 <br>
 
-- 📫 Business : arafbusy@hotmail.com
+- 📫 | Business : arafbusy@hotmail.com
 
 <h3 align="left">How to contact with me?</h3>
 <p align="left">
