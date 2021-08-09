@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Araf</h1>
 <p align="left"></p>
-<h3 align="center"> & Basic Game Developer & Self-Designer & Musician</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arafbusy&label=Profile%20views&color=red&style=flat" alt="arafbusy" /> </p>
 
-**- Front-End Web Developer
-**- Basic Game Developer
-**- Self Designer
-**- Music Producer
+- **Front-End Web Developer
+- **Basic Game Developer
+- **Self Designer
+- **Music Producer
 
 <br>
 
