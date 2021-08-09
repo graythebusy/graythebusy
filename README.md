@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Araf</h1>
-<p align="left">Selamlar</p>
-<br>
+<p align="left"></p>
 <h3 align="center">Front-End Web Developer & Basic Game Developer & Self-Designer & Musician</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arafbusy&label=Profile%20views&color=red&style=flat" alt="arafbusy" /> </p>
