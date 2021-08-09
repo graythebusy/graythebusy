@@ -7,7 +7,7 @@
 - Front-End Web Developer
 - Basic Game Developer
 - Self Designer
---Music Producer
+- Music Producer
 <br>
 - 📫 Business : **arafbusy@hotmail.com**
 
