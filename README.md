@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="128" src="https://avatars.githubusercontent.com/u/74408185?v=4"  />
-</div>
+<h1 align="center">code & hustle</h1>
 
 ###
 
@@ -18,10 +16,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_text=visitors"  />
 </div>
-
-###
-
-<h1 align="center">code & hustle</h1>
 
 ###
 
