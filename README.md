@@ -19,19 +19,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 🔭 Working as Full Stack FiveM Developer<br>- 📚 Computer Engineering student in Cukurova University<br>- ⚡ Learning Vue.js right now</p>
+<p align="center">🔭 Working as Full Stack FiveM Developer<br>📚 Computer Engineering student in Cukurova University<br>⚡ Learning Vue.js right now</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">Stats</h3>
 
 ###
 
