@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_text=visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=graythebusy.graythebusy&left_text=visitors"  />
 </div>
 
 ###
@@ -62,9 +62,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=graythebusy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graythebusy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=graythebusy&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
